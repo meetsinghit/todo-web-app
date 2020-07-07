@@ -24,11 +24,12 @@ This is a Web app which will help you add Todo tasks online in Real-time. It run
 The Code is written in React JS. Node JS is required for the development of the app. If you don't have Node JS installed you can find it [here](https://nodejs.org/en/download/). 
 
 ## Implementation
-It is encouraged to use Visual Studio Code editor for the implementation. Execute "npx create-react-app todo_app" in the console. Copy the scr folder [Link](/scr) and paste its content in the scr folder in your local environment. Only changes which will be needed to be done is in the firebase.js file. 
+It is encouraged to use Visual Studio Code editor for the implementation. Execute "npx create-react-app todo_app" in the console. Copy the scr folder [Link](https://github.com/meetsinghit/todo-web-app/tree/master/src) and paste its content in the scr folder in your local environment. Only changes which will be needed to be done is in the firebase.js file. 
 * Sign up into Google Firewall [Link](https://console.firebase.google.com/)
 * Create new project. Complete the setup.
 * Goto Database and create new Firestore Database.(Start in test mode)
 * Copy the Config file key from the Firebase SDK snipplet and paste it inside the firebase.js file under the firebaseapp function.
+
 ![](source/firebase.PNG)
   
 ## Deployment on Google Firebase
