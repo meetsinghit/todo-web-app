@@ -29,11 +29,11 @@ It is encouraged to use Visual Studio Code editor for the implementation. Execut
 * Create new project. Complete the setup.
 * Goto Database and create new Firestore Database.(Start in test mode)
 * Copy the Config file key from the Firebase SDK snipplet and paste it inside the firebase.js file under the firebaseapp function.
-![](source/firebase.png)
+![](source/firebase.PNG)
   
 ## Deployment on Google Firebase
 Login or signup in order to create virtual app. 
-![](source/googlegirebase.png)
+![](source/googlegirebase.PNG)
 
 Our next step would be to execute the following commands :-
   * npm install -g firebase-tools
@@ -49,7 +49,7 @@ Our next step would be to execute the following commands :-
 
 
 ## Directory Tree 
-![](source/dir.png)
+![](source/dir.PNG)
 
 ## Technologies Used
 
