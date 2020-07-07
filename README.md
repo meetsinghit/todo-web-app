@@ -5,7 +5,7 @@
   * [Overview](#overview)
   * [Installation](#installation)
   * [Implementation](#implementation)
-  * [Deployment on Firebase](#deployment-on-heroku)
+  * [Deployment on Firebase](#deployment-on-firebase)
   * [Directory Tree](#directory-tree)
  
 This repository consists of files required to build and host a ___REACT JS Web App___ on ___GOOGLE FIREBASE___ platform.
@@ -32,7 +32,7 @@ It is encouraged to use Visual Studio Code editor for the implementation. Execut
 
 ![](source/firebase.PNG)
   
-## Deployment-on-Firebase
+## Deployment on Firebase
 Login or signup in order to create virtual app. 
 
 ![](source/googlefirebase.PNG)
