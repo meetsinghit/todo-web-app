@@ -17,7 +17,7 @@ Click on the [Link](https://todo-app-ms.web.app/)
 
 
 ## Overview
-This is a Web app which will help you add Todo tasks online in Real-time. It runs dynamic Javascripts with JSX. The code is broken into functional components. It has real-time NoSQL database. It has full CRUD functionalities ( Create, Read, Update, Delete), Material UI was used for the design (front-end). Implemented two fundamentals of REACT JS : States and Props along with React Hooks.
+This is a Web app which will help you add Todo tasks online in Real-time. It runs dynamic Javascripts with JSX. The code is broken into functional components. It has real-time NoSQL database. It has full CRUD functionalities ( Create, Read, Update, Delete), Material UI was used for the design (front-end). Implemented two fundamentals of REACT JS : States and Props along with React Hooks.The todos get updated real time to-and-back from the database without the need of refreshing the page. 
  
 
 ## Installation
