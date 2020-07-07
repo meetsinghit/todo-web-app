@@ -34,6 +34,7 @@ It is encouraged to use Visual Studio Code editor for the implementation. Execut
   
 ## Deployment on Google Firebase
 Login or signup in order to create virtual app. 
+
 ![](source/googlefirebase.PNG)
 
 Our next step would be to execute the following commands :-
