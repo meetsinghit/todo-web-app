@@ -54,6 +54,6 @@ Our next step would be to execute the following commands :-
 
 ## Technologies Used
 
-![](source/reactfirebase.png)
+![](source/firebasereact.png)
 
 • Please do ⭐ the repository, if it helped you in anyway.
